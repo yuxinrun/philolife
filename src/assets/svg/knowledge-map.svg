@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 430" fill="none">
+  <path d="M480 30v40M180 150h600M480 70v80" stroke="#77746B" stroke-width="1" opacity=".3"/>
+  <rect x="380" y="18" width="200" height="44" rx="2" fill="none" stroke="#252822"/>
+  <text x="480" y="46" text-anchor="middle" font-family="Georgia,serif" font-size="17" letter-spacing="3" fill="#252822">PHILOSOPHY</text>
+  <g font-family="serif" font-size="11" fill="#292923">
+    <rect x="40" y="150" width="270" height="250" rx="2" fill="none" stroke="#52665B" opacity=".6"/>
+    <rect x="345" y="150" width="270" height="250" rx="2" fill="none" stroke="#A17A50" opacity=".6"/>
+    <rect x="650" y="150" width="270" height="250" rx="2" fill="none" stroke="#6B7C8C" opacity=".6"/>
+    <text x="175" y="136" text-anchor="middle" font-size="13" letter-spacing="2" fill="#52665B">西方哲学</text>
+    <text x="480" y="136" text-anchor="middle" font-size="13" letter-spacing="2" fill="#A17A50">东方哲学</text>
+    <text x="785" y="136" text-anchor="middle" font-size="13" letter-spacing="2" fill="#6B7C8C">人生与自我</text>
+  </g>
+  <text x="480" y="416" text-anchor="middle" font-family="Georgia,serif" font-size="10" letter-spacing="4" fill="#77746B">THE MAP OF THOUGHT</text>
+</svg>

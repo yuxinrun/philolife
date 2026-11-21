@@ -1,0 +1,26 @@
+{
+  "name": "philolife",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PhiloLife — 哲学与人生：中文哲学与人生智慧深度阅读平台",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "marked": "^15.0.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.2.6"
+  }
+}

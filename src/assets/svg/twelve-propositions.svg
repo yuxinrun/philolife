@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" fill="none">
+  <circle cx="450" cy="310" r="118" stroke="#77746B" stroke-width=".8" opacity=".4"/>
+  <circle cx="450" cy="310" r="82" stroke="#77746B" stroke-width=".6" opacity=".25"/>
+  <text x="450" y="300" text-anchor="middle" font-size="22" letter-spacing="6" fill="#252822">人生</text>
+  <text x="450" y="332" text-anchor="middle" font-size="22" letter-spacing="6" fill="#252822">十二命题</text>
+  <g font-size="14" fill="#292923" text-anchor="middle">
+    <g><circle cx="450" cy="60" r="26" stroke="#52665B"/><text x="450" y="65">意义</text></g>
+    <g><circle cx="570" cy="85" r="26" stroke="#52665B"/><text x="570" y="90">自由</text></g>
+    <g><circle cx="660" cy="160" r="26" stroke="#52665B"/><text x="660" y="165">幸福</text></g>
+    <g><circle cx="700" cy="280" r="26" stroke="#52665B"/><text x="700" y="285">孤独</text></g>
+    <g><circle cx="700" cy="400" r="26" stroke="#A17A50"/><text x="700" y="405">死亡</text></g>
+    <g><circle cx="620" cy="510" r="26" stroke="#A17A50"/><text x="620" y="515">时间</text></g>
+    <g><circle cx="500" cy="560" r="26" stroke="#A17A50"/><text x="500" y="565">命运</text></g>
+    <g><circle cx="380" cy="560" r="26" stroke="#A17A50"/><text x="380" y="565">爱</text></g>
+    <g><circle cx="260" cy="510" r="26" stroke="#6B7C8C"/><text x="260" y="515">责任</text></g>
+    <g><circle cx="180" cy="400" r="26" stroke="#6B7C8C"/><text x="180" y="405">道德</text></g>
+    <g><circle cx="180" cy="280" r="26" stroke="#6B7C8C"/><text x="180" y="285">欲望</text></g>
+    <g><circle cx="230" cy="160" r="26" stroke="#6B7C8C"/><text x="230" y="165">自我</text></g>
+  </g>
+</svg>

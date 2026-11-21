@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" fill="none">
+  <path d="M40 95h920" stroke="#77746B" opacity=".4"/>
+  <g font-family="serif" font-size="12" fill="#292923" text-anchor="middle">
+    <circle cx="70" cy="95" r="5" fill="#52665B"/><text x="70" y="130">前6—前4世纪</text><text x="70" y="150" font-size="10" fill="#77746B">古希腊与先秦诸子</text>
+    <circle cx="242" cy="95" r="5" fill="#A17A50"/><text x="242" y="74">前1—5世纪</text><text x="242" y="56" font-size="10" fill="#77746B">佛教兴起</text>
+    <circle cx="414" cy="95" r="5" fill="#52665B"/><text x="414" y="130">3—13世纪</text><text x="414" y="150" font-size="10" fill="#77746B">经院哲学与理学</text>
+    <circle cx="586" cy="95" r="5" fill="#A17A50"/><text x="586" y="74">17—18世纪</text><text x="586" y="56" font-size="10" fill="#77746B">理性主义与启蒙</text>
+    <circle cx="758" cy="95" r="5" fill="#52665B"/><text x="758" y="130">19世纪</text><text x="758" y="150" font-size="10" fill="#77746B">德国古典哲学</text>
+    <circle cx="930" cy="95" r="5" fill="#A17A50"/><text x="930" y="74">20世纪</text><text x="930" y="56" font-size="10" fill="#77746B">现象学与存在主义</text>
+  </g>
+</svg>
