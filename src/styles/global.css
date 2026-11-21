@@ -369,6 +369,7 @@ p { margin: 0 0 1.1em; }
 }
 @media (max-width: 980px) {
   .main-nav { display: none; }
+  .header-actions { margin-left: auto; }
   .hamburger { display: grid; }
   .grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .grid-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
