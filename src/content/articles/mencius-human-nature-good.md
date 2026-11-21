@@ -8,7 +8,7 @@ tags: 孟子 | 性善论 | 四端 | 儒家 | 道德心理学
 author: PhiloLife 编辑部
 date: 2025-12-18
 readTime: 12
-cover: /images/articles/mencius.webp
+cover: ./images/articles/mencius.webp
 coverAlt: 孟子画像
 thinkers: mencius | confucius | xunzi
 books: mengzi

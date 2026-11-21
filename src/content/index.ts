@@ -35,7 +35,7 @@ export const articles: Article[] = Object.entries(modules)
       author: asString(meta.author, 'PhiloLife 编辑部'),
       date: asString(meta.date),
       readTime: asNumber(meta.readTime),
-      cover: asString(meta.cover, '/images/articles/default.webp'),
+      cover: asString(meta.cover, './images/articles/default.webp'),
       coverAlt: asString(meta.coverAlt, asString(meta.title)),
       thinkers: asArray(meta.thinkers),
       books: asArray(meta.books),

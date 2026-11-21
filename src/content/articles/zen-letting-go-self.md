@@ -8,7 +8,7 @@ tags: 禅宗 | 空性 | 执念 | 自我 | 佛教
 author: PhiloLife 编辑部
 date: 2025-12-08
 readTime: 12
-cover: /images/articles/zen.webp
+cover: ./images/articles/zen.webp
 coverAlt: 达磨祖师像，美国明尼阿波利斯艺术学院藏
 thinkers: buddha | nagarjuna
 books: platform-sutra | diamond-sutra

@@ -8,7 +8,7 @@ tags: 老子 | 无为 | 道 | 自然 | 道家
 author: PhiloLife 编辑部
 date: 2025-12-16
 readTime: 12
-cover: /images/articles/laozi.webp
+cover: ./images/articles/laozi.webp
 coverAlt: 陈洪绶所绘老子骑牛图
 thinkers: laozi | zhuangzi
 books: daodejing

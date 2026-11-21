@@ -8,7 +8,7 @@ tags: 加缪 | 荒诞 | 反抗 | 西西弗 | 存在主义
 author: PhiloLife 编辑部
 date: 2025-12-22
 readTime: 12
-cover: /images/articles/camus.webp
+cover: ./images/articles/camus.webp
 coverAlt: 地中海海岸风光，加缪思想意境
 thinkers: camus | sartre
 books: myth-of-sisyphus | the-stranger

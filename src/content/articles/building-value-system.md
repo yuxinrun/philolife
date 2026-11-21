@@ -8,7 +8,7 @@ tags: 价值 | 选择 | 自律 | 自我 | 伦理
 author: PhiloLife 编辑部
 date: 2025-11-18
 readTime: 12
-cover: /images/articles/values.webp
+cover: ./images/articles/values.webp
 coverAlt: 古代几何图案与书籍
 thinkers: nietzsche | kant | aristotle
 books: beyond-good-and-evil | nicomachean-ethics

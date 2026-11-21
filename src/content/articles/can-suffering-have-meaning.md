@@ -8,7 +8,7 @@ tags: 痛苦 | 意义 | 苦难 | 尼采 | 心理学
 author: PhiloLife 编辑部
 date: 2025-11-10
 readTime: 13
-cover: /images/articles/suffering.webp
+cover: ./images/articles/suffering.webp
 coverAlt: 光影中的古典石阶
 thinkers: nietzsche | buddha | camus
 books: genealogy-of-morals | myth-of-sisyphus

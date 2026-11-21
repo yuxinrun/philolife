@@ -8,7 +8,7 @@ tags: 康德 | 道德哲学 | 自由 | 尊严 | 德国古典哲学
 author: PhiloLife 编辑部
 date: 2026-01-06
 readTime: 14
-cover: /images/articles/kant.webp
+cover: ./images/articles/kant.webp
 coverAlt: 康德铜版肖像
 thinkers: kant | hegel | rousseau
 books: critique-of-practical-reason | grounded-in-ethics | critique-of-pure-reason

@@ -1,11 +1,11 @@
 import type { Book } from '../types'
 
-const C = (id: string): string => `/images/books/${id}.webp`
+const C = (id: string): string => `./images/books/${id}.webp`
 
 export const books: Book[] = [
   {
     id: 'republic', title: '理想国', originalTitle: 'Πολιτεία / The Republic', author: '柏拉图', year: '约公元前380—370年', field: '政治哲学 / 认识论', school: '理念论', tradition: 'western',
-    cover: '/images/books/01.webp', coverAlt: '《理想国》书籍封面意境',
+    cover: './images/books/01.webp', coverAlt: '《理想国》书籍封面意境',
     intro: '柏拉图最宏大的对话，以正义为线索，讨论理想城邦、哲学王、灵魂三分与洞穴寓言。',
     background: '写于雅典在伯罗奔尼撒战争中失败之后，柏拉图对民主制度的失望促使他寻找一种由知识指导的政治秩序。',
     content: '全书以苏格拉底与格劳孔等人的对话展开：先追问「什么是正义」，再建构一个由统治者、护卫者、生产者组成的城邦，最后通过灵魂与城邦的类比论证正义是灵魂各部分的和谐。第七卷的洞穴寓言与「善的理念」是全书认识论的顶峰。',
@@ -20,7 +20,7 @@ export const books: Book[] = [
   },
   {
     id: 'nicomachean-ethics', title: '尼各马可伦理学', originalTitle: 'Ἠθικὰ Νικομάχεια', author: '亚里士多德', year: '约公元前340年（讲稿，身后由儿子尼各马可整理）', field: '伦理学', school: '德性伦理学', tradition: 'western',
-    cover: '/images/books/02.webp', coverAlt: '古典伦理学书籍意境',
+    cover: './images/books/02.webp', coverAlt: '古典伦理学书籍意境',
     intro: '西方伦理学的奠基文本，以幸福、德性、实践智慧与友谊构建了影响深远的道德哲学。',
     background: '亚里士多德在吕克昂讲学时的讲义，以其子尼各马可命名，区别于《欧台谟伦理学》。',
     content: '全书十卷，从「一切行动皆指向某目的」出发，论证最高目的是 eudaimonia（繁盛）；继而分析德性作为中道、实践智慧、意志薄弱、友谊与沉思生活。',
@@ -35,7 +35,7 @@ export const books: Book[] = [
   },
   {
     id: 'metaphysics', title: '形而上学', originalTitle: 'Μετὰ τὰ φυσικά', author: '亚里士多德', year: '约公元前4世纪（讲稿汇编）', field: '形而上学', school: '目的论', tradition: 'western',
-    cover: '/images/books/03.webp', coverAlt: '古典哲学书籍意境',
+    cover: './images/books/03.webp', coverAlt: '古典哲学书籍意境',
     intro: '西方形而上学的奠基之作，探讨存在、实体、原因、潜能与现实，以及神学。',
     background: '书名意为「物理学之后」，是编辑者在编排亚里士多德著作时所定，并非作者自拟。',
     content: '全书十四卷，核心是「存在作为存在」的研究，提出四因说（质料、形式、动力、目的）与实体理论，并在第十二卷提出「不动的推动者」。',
@@ -50,7 +50,7 @@ export const books: Book[] = [
   },
   {
     id: 'meditations', title: '沉思录', originalTitle: 'Τὰ εἰς ἑαυτόν (Ta eis heauton)', author: '马可·奥勒留', year: '约公元170—180年', field: '伦理学 / 精神修炼', school: '斯多葛学派', tradition: 'western',
-    cover: '/images/books/04.webp', coverAlt: '罗马皇帝的哲学笔记意境',
+    cover: './images/books/04.webp', coverAlt: '罗马皇帝的哲学笔记意境',
     intro: '一位罗马皇帝写给自己的精神笔记，两千年后仍是最受欢迎的斯多葛著作。',
     background: '写作于皇帝在军旅与政务间隙，从未打算发表，因此保留了最私人、最直接的哲学练习。',
     content: '十二卷笔记，反复练习控制二分法、死亡冥想、对他人的宽容与对宇宙秩序的信任。',
@@ -65,7 +65,7 @@ export const books: Book[] = [
   },
   {
     id: 'letter-to-menoeceus', title: '致美诺凯乌斯的信', originalTitle: 'Epistula ad Menoeceum', author: '伊壁鸠鲁', year: '约公元前3世纪', field: '伦理学', school: '伊壁鸠鲁学派', tradition: 'western',
-    cover: '/images/books/05.webp', coverAlt: '古典书信与哲学意境',
+    cover: './images/books/05.webp', coverAlt: '古典书信与哲学意境',
     intro: '伊壁鸠鲁核心教义最简洁的陈述，澄清了「快乐」的真实含义。',
     background: '写给一位叫美诺凯乌斯的年轻人的信，收入第欧根尼·拉尔修的《名哲言行录》第十卷。',
     content: '信中区分三类欲望，论证快乐是最高善，解释死亡与我们无关，并说明审慎、正直与友谊如何带来幸福生活。',
@@ -80,7 +80,7 @@ export const books: Book[] = [
   },
   {
     id: 'daodejing', title: '道德经', originalTitle: '《老子》', author: '老子（传统归属）', year: '成书约公元前5—前4世纪（争议）', field: '形而上学 / 政治哲学', school: '道家', tradition: 'eastern',
-    cover: '/images/books/06.webp', coverAlt: '水墨山水与道德经意境',
+    cover: './images/books/06.webp', coverAlt: '水墨山水与道德经意境',
     intro: '五千言的道家经典，以道、无为、自然与柔弱重估了力量与秩序。',
     background: '传统归于春秋时期的老子，现代学者多认为成书于战国早期，是长期积累的格言集。',
     content: '八十一章，上篇《道经》论道与认识，下篇《德经》论处世与治国的实践。',
@@ -95,7 +95,7 @@ export const books: Book[] = [
   },
   {
     id: 'zhuangzi', title: '庄子', originalTitle: '《南华真经》', author: '庄子及后学', year: '内篇约公元前4世纪，外杂篇稍晚', field: '形而上学 / 人生哲学', school: '道家', tradition: 'eastern',
-    cover: '/images/books/07.webp', coverAlt: '庄周梦蝶水墨意境',
+    cover: './images/books/07.webp', coverAlt: '庄周梦蝶水墨意境',
     intro: '以寓言、幽默与悖论写成，中国哲学中最具文学性的精神自由之书。',
     background: '现存三十三篇，分为内篇七、外篇十五、杂篇十一；内篇一般认为出自庄子本人。',
     content: '通过鲲鹏、梦蝶、庖丁解牛等大量寓言，展开关于逍遥、齐物、生死与技艺的思考。',
@@ -110,7 +110,7 @@ export const books: Book[] = [
   },
   {
     id: 'analects', title: '论语', originalTitle: '《论语》', author: '孔子及其弟子（记录）', year: '约公元前5世纪—前4世纪初结集', field: '伦理学 / 政治哲学', school: '儒家', tradition: 'eastern',
-    cover: '/images/books/08.webp', coverAlt: '杏坛讲学图意境',
+    cover: './images/books/08.webp', coverAlt: '杏坛讲学图意境',
     intro: '孔子言行的记录，儒家最核心的经典，两千年来塑造了东亚的伦理语言。',
     background: '由孔子弟子与再传弟子记录编纂，现存二十篇，版本涉及《鲁论语》《齐论语》《古文论语》等。',
     content: '以语录体记录孔子关于仁、礼、君子、为政、学习与文艺的思考。',
@@ -125,7 +125,7 @@ export const books: Book[] = [
   },
   {
     id: 'mengzi', title: '孟子', originalTitle: '《孟子》', author: '孟子及其弟子', year: '约公元前4世纪', field: '伦理学 / 政治哲学', school: '儒家', tradition: 'eastern',
-    cover: '/images/books/09.webp', coverAlt: '孟子画像意境',
+    cover: './images/books/09.webp', coverAlt: '孟子画像意境',
     intro: '性善论与仁政的系统阐述，儒家最接近「道德心理学」的经典。',
     background: '记录孟子与诸侯、弟子的对话，现存七篇，南宋朱熹将其列入「四书」。',
     content: '以四端说论证人性善，以仁政回应时代政治，以浩然之气描述道德修养的境界。',
@@ -140,7 +140,7 @@ export const books: Book[] = [
   },
   {
     id: 'chuanxilu', title: '传习录', originalTitle: '《传习录》', author: '王阳明（门人记录）', year: '明正德至嘉靖年间（16世纪前期结集）', field: '伦理学 / 工夫论', school: '阳明心学', tradition: 'eastern',
-    cover: '/images/books/10.webp', coverAlt: '书院与古籍意境',
+    cover: './images/books/10.webp', coverAlt: '书院与古籍意境',
     intro: '阳明心学的核心文本，以师徒问答的形式呈现心即理、知行合一与致良知。',
     background: '由王阳明的弟子记录其讲学语录与书信，分上中下三卷，是研究心学最重要的材料。',
     content: '上卷论知行合一与心即理，中卷为书信，下卷论致良知与四句教。',
@@ -155,7 +155,7 @@ export const books: Book[] = [
   },
   {
     id: 'platform-sutra', title: '坛经', originalTitle: '《六祖大师法宝坛经》', author: '慧能（弟子记录）', year: '约唐代（现存版本约8—9世纪）', field: '佛教 / 禅宗', school: '禅宗', tradition: 'eastern',
-    cover: '/images/books/11.webp', coverAlt: '禅意水墨与经卷',
+    cover: './images/books/11.webp', coverAlt: '禅意水墨与经卷',
     intro: '中国佛教唯一被尊为「经」的著作，禅宗中国化的核心文本。',
     background: '记录六祖慧能在韶州大梵寺的说法，经弟子法海等整理，现存多种版本。',
     content: '以慧能的悟道经历与说法为中心，提出「菩提自性本来清净」「无念无相无住」与顿悟思想。',
@@ -170,7 +170,7 @@ export const books: Book[] = [
   },
   {
     id: 'critique-of-pure-reason', title: '纯粹理性批判', originalTitle: 'Kritik der reinen Vernunft', author: '康德', year: '1781年（第二版1787年）', field: '认识论 / 形而上学', school: '德国古典哲学', tradition: 'western',
-    cover: '/images/books/12.webp', coverAlt: '康德著作与星空意境',
+    cover: './images/books/12.webp', coverAlt: '康德著作与星空意境',
     intro: '现代哲学最重要的著作之一，为科学知识划定界限，为自由与信仰留出空间。',
     background: '康德自称受休谟唤醒，用十二年时间写成，试图回答「先天综合判断如何可能」。',
     content: '分为「先验感性论」（时空形式）与「先验逻辑」（范畴与理念），论证知识只及现象不及物自身。',
@@ -185,7 +185,7 @@ export const books: Book[] = [
   },
   {
     id: 'critique-of-practical-reason', title: '实践理性批判', originalTitle: 'Kritik der praktischen Vernunft', author: '康德', year: '1788年', field: '伦理学', school: '德国古典哲学', tradition: 'western',
-    cover: '/images/books/13.webp', coverAlt: '道德哲学与星空意境',
+    cover: './images/books/13.webp', coverAlt: '道德哲学与星空意境',
     intro: '论证道德法则的必然性、自由与至善，完成康德的伦理学体系。',
     background: '继《纯粹理性批判》之后，康德转向实践理性，回答「我应当做什么」。',
     content: '分析纯粹实践理性的法则、动机与悬设，论证自由是道德法则的存在理由。',
@@ -200,7 +200,7 @@ export const books: Book[] = [
   },
   {
     id: 'ethics-spinoza', title: '伦理学', originalTitle: 'Ethica, ordine geometrico demonstrata', author: '斯宾诺莎', year: '写于1661—1675年，1677年身后出版', field: '形而上学 / 伦理学', school: '理性主义', tradition: 'western',
-    cover: '/images/books/14.webp', coverAlt: '几何学与哲学意境',
+    cover: './images/books/14.webp', coverAlt: '几何学与哲学意境',
     intro: '以几何学方式写成，从神与自然的一元论推出人的自由与幸福。',
     background: '斯宾诺莎用定义、公理、命题、证明与推论的形式写成，仿照欧几里得《几何原本》。',
     content: '五卷分别论神、心灵、情感的起源与性质、人的自由与知性的力量。',
@@ -215,7 +215,7 @@ export const books: Book[] = [
   },
   {
     id: 'world-as-will', title: '作为意志和表象的世界', originalTitle: 'Die Welt als Wille und Vorstellung', author: '叔本华', year: '1818年初版，1819年出版；1844年增订', field: '形而上学 / 伦理学', school: '意志哲学', tradition: 'western',
-    cover: '/images/books/15.webp', coverAlt: '意志与镜面的哲学意境',
+    cover: './images/books/15.webp', coverAlt: '意志与镜面的哲学意境',
     intro: '把康德物自身解释为盲目意志，提出人生在痛苦与无聊之间摆动的著名诊断。',
     background: '叔本华的代表作，初版反响冷淡，1844年增订版才逐渐获得声誉。',
     content: '四卷分别论表象世界、意志世界、艺术与伦理，附录批判康德哲学。',
@@ -230,7 +230,7 @@ export const books: Book[] = [
   },
   {
     id: 'zarathustra', title: '查拉图斯特拉如是说', originalTitle: 'Also sprach Zarathustra', author: '尼采', year: '1883—1885年（分四部出版）', field: '哲学文学', school: '生命哲学', tradition: 'western',
-    cover: '/images/books/16.webp', coverAlt: '高山与日出的哲学意境',
+    cover: './images/books/16.webp', coverAlt: '高山与日出的哲学意境',
     intro: '以寓言与诗性语言宣告「上帝已死」、超人与永恒轮回，尼采最著名的作品。',
     background: '尼采在离开德国、漂泊意大利期间写成，是一部刻意模仿《圣经》文体的哲学诗。',
     content: '查拉图斯特拉下山向世人传道，经历三次返回与各种 encounter，宣说三种变形、超人与永恒轮回。',
@@ -245,7 +245,7 @@ export const books: Book[] = [
   },
   {
     id: 'beyond-good-and-evil', title: '善恶的彼岸', originalTitle: 'Jenseits von Gut und Böse', author: '尼采', year: '1886年', field: '伦理学 / 形而上学', school: '生命哲学', tradition: 'western',
-    cover: '/images/books/17.webp', coverAlt: '古典雕塑与价值重估意境',
+    cover: './images/books/17.webp', coverAlt: '古典雕塑与价值重估意境',
     intro: '对欧洲哲学传统的全面批判，提出视角主义与价值重估的纲领。',
     background: '尼采在《查拉图斯特拉》之后写成的「自由精神」系列著作之一。',
     content: '以箴言体讨论哲学家、道德、宗教、知识与政治，批判平等主义与奴隶道德。',
@@ -260,7 +260,7 @@ export const books: Book[] = [
   },
   {
     id: 'being-and-time', title: '存在与时间', originalTitle: 'Sein und Zeit', author: '海德格尔', year: '1927年', field: '存在论', school: '现象学', tradition: 'western',
-    cover: '/images/books/18.webp', coverAlt: '林间道路与时间为题的意境',
+    cover: './images/books/18.webp', coverAlt: '林间道路与时间为题的意境',
     intro: '二十世纪最重要的哲学著作之一，通过分析此在重新提出「存在」的问题。',
     background: '为回应胡塞尔的现象学而写，原题拟献给胡塞尔，后因思想分歧改变了献词。',
     content: '第一篇分析此在的日常性与沉沦，第二篇论向死存在、良知与本真的能在；原计划第三篇未完成。',
@@ -275,7 +275,7 @@ export const books: Book[] = [
   },
   {
     id: 'existence-and-nothingness', title: '存在与虚无', originalTitle: 'L\'Existentialisme et la Néant', author: '萨特', year: '1943年', field: '存在论 / 伦理学', school: '存在主义', tradition: 'western',
-    cover: '/images/books/19.webp', coverAlt: '自由与选择的哲学意境',
+    cover: './images/books/19.webp', coverAlt: '自由与选择的哲学意境',
     intro: '萨特的哲学巨著，论证自为存在的自由、自欺与他人目光。',
     background: '写作于二战期间，萨特在战俘营中开始构思，出版后立即成为法国知识界的事件。',
     content: '从虚无的起源出发，分析意识、自欺、他人与自由，提出「人被判定为自由」。',
@@ -290,7 +290,7 @@ export const books: Book[] = [
   },
   {
     id: 'myth-of-sisyphus', title: '西西弗神话', originalTitle: 'Le Mythe de Sisyphe', author: '加缪', year: '1942年', field: '荒诞哲学', school: '存在主义（加缪自认不属于）', tradition: 'western',
-    cover: '/images/books/20.webp', coverAlt: '巨石与山丘的荒诞意境',
+    cover: './images/books/20.webp', coverAlt: '巨石与山丘的荒诞意境',
     intro: '以自杀问题开篇，论证荒诞、拒绝哲学自杀，并宣告「应当想象西西弗是幸福的」。',
     background: '加缪在二战期间写成的哲学随笔，与小说《局外人》构成姊妹篇。',
     content: '从荒诞感出发，审查各种逃避方式，提出以清醒的反抗代替超越的希望。',
@@ -305,7 +305,7 @@ export const books: Book[] = [
   },
   {
     id: 'the-stranger', title: '局外人', originalTitle: 'L\'Étranger', author: '加缪', year: '1942年', field: '小说 / 荒诞哲学', school: '荒诞文学', tradition: 'western',
-    cover: '/images/books/21.webp', coverAlt: '地中海阳光与海岸意境',
+    cover: './images/books/21.webp', coverAlt: '地中海阳光与海岸意境',
     intro: '以第一人称讲述一个「不按社会规则感受」的人，荒诞哲学的文学呈现。',
     background: '加缪的第一部小说，出版后引起轰动，成为存在主义文学的标识。',
     content: '默尔索在母亲葬礼后表现冷淡，随后在海滩上杀人，最终被判死刑——他的罪更多是「没有在母亲葬礼上哭」。',
@@ -320,7 +320,7 @@ export const books: Book[] = [
   },
   {
     id: 'existentialism-is-a-humanism', title: '存在主义是一种人道主义', originalTitle: 'L\'Existentialisme est un humanisme', author: '萨特', year: '1946年', field: '伦理学 / 公共哲学', school: '存在主义', tradition: 'western',
-    cover: '/images/books/22.webp', coverAlt: '战后巴黎的思想讲堂意境',
+    cover: './images/books/22.webp', coverAlt: '战后巴黎的思想讲堂意境',
     intro: '萨特为存在主义辩护的著名演讲，以通俗语言阐明自由、选择与责任。',
     background: '1946年在巴黎「俱乐部」发表的演讲，旨在回应共产党人与天主教徒对存在主义的批评。',
     content: '区分存在主义与虚无主义，解释「存在先于本质」，论证选择如何为全人类立法。',
@@ -335,7 +335,7 @@ export const books: Book[] = [
   },
   {
     id: 'philosophical-investigations', title: '哲学研究', originalTitle: 'Philosophische Untersuchungen', author: '维特根斯坦', year: '1953年（身后出版）', field: '语言哲学', school: '日常语言学派', tradition: 'western',
-    cover: '/images/books/23.webp', coverAlt: '语言游戏与日常场景意境',
+    cover: './images/books/23.webp', coverAlt: '语言游戏与日常场景意境',
     intro: '以语言游戏与家族相似颠覆了传统意义理论，改变了分析哲学的面貌。',
     background: '维特根斯坦晚年手稿由弟子整理出版，与早期《逻辑哲学论》形成鲜明对照。',
     content: '通过大量日常语言案例，论证意义在于使用，哲学问题是语言脱离日常用法时产生的困惑。',
@@ -350,7 +350,7 @@ export const books: Book[] = [
   },
   {
     id: 'second-sex', title: '第二性', originalTitle: 'Le Deuxième Sexe', author: '西蒙娜·德·波伏娃', year: '1949年', field: '女性主义哲学 / 伦理学', school: '存在主义女性主义', tradition: 'western',
-    cover: '/images/books/24.webp', coverAlt: '女性主义经典书籍意境',
+    cover: './images/books/24.webp', coverAlt: '女性主义经典书籍意境',
     intro: '「女人不是天生的，而是被塑造的」——女性主义思想的奠基文本。',
     background: '波伏娃以存在主义哲学分析女性处境，出版后在法国引发巨大争论。',
     content: '从生物学、精神分析、历史与文学多角度分析女性如何被建构为「他者」，并探讨解放的可能。',
@@ -365,7 +365,7 @@ export const books: Book[] = [
   },
   {
     id: 'theory-of-justice', title: '正义论', originalTitle: 'A Theory of Justice', author: '约翰·罗尔斯', year: '1971年（修订版1999年）', field: '政治哲学', school: '社会契约论', tradition: 'western',
-    cover: '/images/books/25.webp', coverAlt: '现代政治哲学书籍意境',
+    cover: './images/books/25.webp', coverAlt: '现代政治哲学书籍意境',
     intro: '以「无知之幕」重构社会契约，二十世纪政治哲学最重要的著作。',
     background: '罗尔斯在哈佛大学历时多年写成，旨在为自由平等社会提供一套正义原则。',
     content: '通过原初状态与无知之幕的假设，推出两个正义原则：平等自由原则与差别原则。',
@@ -380,7 +380,7 @@ export const books: Book[] = [
   },
   {
     id: 'social-contract', title: '社会契约论', originalTitle: 'Du contrat social', author: '卢梭', year: '1762年', field: '政治哲学', school: '社会契约论', tradition: 'western',
-    cover: '/images/books/26.webp', coverAlt: '启蒙时代政治哲学意境',
+    cover: './images/books/26.webp', coverAlt: '启蒙时代政治哲学意境',
     intro: '「人生而自由，却无往不在枷锁之中」——现代民主理论的关键文本。',
     background: '出版于法国大革命之前，与《爱弥儿》同年问世，均遭当局查禁。',
     content: '四卷依次讨论社会契约、主权者、政府形式与制度设计，提出公意与人民主权。',
@@ -395,7 +395,7 @@ export const books: Book[] = [
   },
   {
     id: 'confessions-augustine', title: '忏悔录', originalTitle: 'Confessiones', author: '奥古斯丁', year: '约397—401年', field: '自传 / 神学', school: '基督教哲学', tradition: 'western',
-    cover: '/images/books/27.webp', coverAlt: '古代手稿与宗教哲学意境',
+    cover: './images/books/27.webp', coverAlt: '古代手稿与宗教哲学意境',
     intro: '西方文学史上第一部自传，以呼吸般的节奏记录了一个灵魂的皈依。',
     background: '奥古斯丁在成为主教后写成，既是个人回忆，也是对上帝的祈祷与神学反思。',
     content: '十三卷，前九卷叙述从童年到皈依的经历，后四卷反思记忆、时间与创世。',
@@ -410,7 +410,7 @@ export const books: Book[] = [
   },
   {
     id: 'schopenhauer-wisdom', title: '人生的智慧', originalTitle: 'Aphorismen zur Lebensweisheit', author: '叔本华', year: '1851年', field: '人生哲学', school: '意志哲学', tradition: 'western',
-    cover: '/images/books/28.webp', coverAlt: '古典书房与人生智慧意境',
+    cover: './images/books/28.webp', coverAlt: '古典书房与人生智慧意境',
     intro: '叔本华写给普通读者的处世哲学，以冷峻而实用的语言讨论幸福。',
     background: '收入《附录与补遗》的通俗著作，是叔本华生前最畅销的作品。',
     content: '讨论人格、财富、名誉、关系与衰老，提出「幸福的公式」：减少欲望、培养内在丰富。',
@@ -425,7 +425,7 @@ export const books: Book[] = [
   },
   {
     id: 'birth-of-tragedy', title: '悲剧的诞生', originalTitle: 'Die Geburt der Tragödie', author: '尼采', year: '1872年', field: '美学 / 文化批判', school: '生命哲学', tradition: 'western',
-    cover: '/images/books/29.webp', coverAlt: '古希腊剧场与悲剧面具意境',
+    cover: './images/books/29.webp', coverAlt: '古希腊剧场与悲剧面具意境',
     intro: '尼采的第一部著作，以日神与酒神两种冲动解释希腊悲剧的诞生与衰亡。',
     background: '写作时尼采仍是古典语文学教授，此书因其反学院风格受到学界冷遇。',
     content: '论证希腊悲剧源于阿波罗（日神）与狄俄尼索斯（酒神）的张力，并将悲剧衰亡归因于欧里庇得斯的理性主义与苏格拉底的乐观主义。',
@@ -440,7 +440,7 @@ export const books: Book[] = [
   },
   {
     id: 'western-philosophy-history', title: '西方哲学史', originalTitle: 'A History of Western Philosophy', author: '伯特兰·罗素', year: '1945年', field: '哲学史', school: '分析哲学视角', tradition: 'western',
-    cover: '/images/books/30.webp', coverAlt: '哲学史与古典书籍意境',
+    cover: './images/books/30.webp', coverAlt: '哲学史与古典书籍意境',
     intro: '一部由哲学家写就的哲学史，文笔优美，观点鲜明。',
     background: '罗素在二战期间写成，旨在为普通读者提供一部可读的西方思想通史。',
     content: '从米利都学派讲到二十世纪的逻辑分析，把哲学放在社会与政治背景中理解。',
@@ -455,7 +455,7 @@ export const books: Book[] = [
   },
   {
     id: 'apology', title: '申辩篇', originalTitle: 'Ἀπολογία Σωκράτους', author: '柏拉图（记录苏格拉底）', year: '约公元前4世纪', field: '伦理学 / 哲学辩护', school: '古典希腊哲学', tradition: 'western',
-    cover: '/images/books/31.webp', coverAlt: '雅典法庭与古典哲学意境',
+    cover: './images/books/31.webp', coverAlt: '雅典法庭与古典哲学意境',
     intro: '苏格拉底在法庭上的自辩，哲学史上最著名的「未经审视的人生不值得过」即出于此。',
     background: '公元前399年苏格拉底被指控腐蚀青年与不敬神，此篇是柏拉图记录的辩护词。',
     content: '苏格拉底依次反驳指控，解释自己的哲学使命，并在被判死刑后发表最后的演说。',
@@ -470,7 +470,7 @@ export const books: Book[] = [
   },
   {
     id: 'phaedo', title: '斐多篇', originalTitle: 'Φαίδων', author: '柏拉图', year: '约公元前4世纪', field: '形而上学 / 死亡哲学', school: '理念论', tradition: 'western',
-    cover: '/images/books/32.webp', coverAlt: '苏格拉底饮鸩前的最后对话意境',
+    cover: './images/books/32.webp', coverAlt: '苏格拉底饮鸩前的最后对话意境',
     intro: '记录苏格拉底临终前的对话，论证灵魂不朽与哲学作为「死亡的练习」。',
     background: '以斐多的叙述框架呈现苏格拉底在狱中的最后一天。',
     content: '围绕灵魂不朽展开多个论证，最后以苏格拉底平静饮毒酒与「我们欠医神一只公鸡」的遗言结束。',
@@ -485,7 +485,7 @@ export const books: Book[] = [
   },
   {
     id: 'symposium', title: '会饮篇', originalTitle: 'Συμπόσιον', author: '柏拉图', year: '约公元前4世纪', field: '美学 / 爱欲哲学', school: '理念论', tradition: 'western',
-    cover: '/images/books/33.webp', coverAlt: '古希腊宴会与爱欲哲学意境',
+    cover: './images/books/33.webp', coverAlt: '古希腊宴会与爱欲哲学意境',
     intro: '一场关于爱的演讲比赛，提出爱欲阶梯与「寻找另一半」的著名神话。',
     background: '设定在雅典的一次贵族宴饮，多位客人轮流赞颂爱神。',
     content: '从菲德鲁斯到第俄提玛，演讲逐步从神话、政治上升到哲学的「爱的阶梯」。',
@@ -500,7 +500,7 @@ export const books: Book[] = [
   },
   {
     id: 'enchiridion', title: '手册', originalTitle: 'Ἐγχειρίδιον / Enchiridion', author: '爱比克泰德（阿里安记录）', year: '约公元2世纪', field: '伦理学', school: '斯多葛学派', tradition: 'western',
-    cover: '/images/books/34.webp', coverAlt: '斯多葛手册与古典石柱意境',
+    cover: './images/books/34.webp', coverAlt: '斯多葛手册与古典石柱意境',
     intro: '斯多葛实践哲学最凝练的手册，开篇即提出改变无数人生活的控制二分法。',
     background: '由爱比克泰德的学生阿里安从其《论说集》中摘编而成。',
     content: '五十余条简短的箴言式条目，涵盖判断、欲望、情感、社交与死亡。',
@@ -515,7 +515,7 @@ export const books: Book[] = [
   },
   {
     id: 'genealogy-of-morals', title: '道德谱系学', originalTitle: 'Zur Genealogie der Moral', author: '尼采', year: '1887年', field: '伦理学 / 思想史', school: '生命哲学', tradition: 'western',
-    cover: '/images/books/35.webp', coverAlt: '谱系与道德批判意境',
+    cover: './images/books/35.webp', coverAlt: '谱系与道德批判意境',
     intro: '以「善/恶」与「好/坏」的历史断裂，揭示道德观念背后的生命利益。',
     background: '尼采晚年最重要著作之一，篇幅不长但论证密集。',
     content: '三篇论文分别讨论主奴道德的起源、坏良心与禁欲理想的谱系。',
@@ -530,7 +530,7 @@ export const books: Book[] = [
   },
   {
     id: 'phenomenology-of-spirit', title: '精神现象学', originalTitle: 'Phänomenologie des Geistes', author: '黑格尔', year: '1807年', field: '认识论 / 精神哲学', school: '德国古典哲学', tradition: 'western',
-    cover: '/images/books/36.webp', coverAlt: '精神发展与辩证法意境',
+    cover: './images/books/36.webp', coverAlt: '精神发展与辩证法意境',
     intro: '意识从感性确定性走向绝对知识的历程，包含主奴辩证法的经典章节。',
     background: '黑格尔第一部长篇著作，原定副标题为「意识经验的科学」。',
     content: '依次呈现意识、自我意识、理性、精神、宗教与绝对知识诸形态。',
@@ -545,7 +545,7 @@ export const books: Book[] = [
   },
   {
     id: 'concept-of-anxiety', title: '焦虑的概念', originalTitle: 'Begrebet Angest', author: '克尔凯郭尔', year: '1844年', field: '心理学 / 存在哲学', school: '存在主义先驱', tradition: 'western',
-    cover: '/images/books/37.webp', coverAlt: '焦虑与自由的哲学意境',
+    cover: './images/books/37.webp', coverAlt: '焦虑与自由的哲学意境',
     intro: '把焦虑理解为「自由的眩晕」，存在主义心理学的经典文本。',
     background: '以笔名维吉尔·豪夫尼希斯发表，探讨焦虑与罪、自由与救赎的关系。',
     content: '从「焦虑是自由的眩晕」出发，分析焦虑与恐惧的区别，并把它放入宗教与个体选择的框架。',
@@ -560,7 +560,7 @@ export const books: Book[] = [
   },
   {
     id: 'art-of-loving', title: '爱的艺术', originalTitle: 'The Art of Loving', author: '弗洛姆', year: '1956年', field: '伦理学 / 社会心理学', school: '法兰克福学派', tradition: 'western',
-    cover: '/images/books/38.webp', coverAlt: '爱与关系的哲学意境',
+    cover: './images/books/38.webp', coverAlt: '爱与关系的哲学意境',
     intro: '把爱理解为一种需要学习的能力，而非被动发生的运气。',
     background: '弗洛姆面向大众的写作，结合精神分析与社会批判。',
     content: '分析爱的理论、爱的实践与爱在现代社会中的衰败，提出关心、责任、尊重与了解四要素。',
@@ -575,7 +575,7 @@ export const books: Book[] = [
   },
   {
     id: 'walden', title: '瓦尔登湖', originalTitle: 'Walden, or Life in the Woods', author: '亨利·戴维·梭罗', year: '1854年', field: '生活哲学 / 文学', school: '超验主义', tradition: 'western',
-    cover: '/images/books/39.webp', coverAlt: '湖畔木屋与独处意境',
+    cover: './images/books/39.webp', coverAlt: '湖畔木屋与独处意境',
     intro: '两年两个月在湖畔简朴生活的实验记录，关于「从容地生活」的经典。',
     background: '梭罗在瓦尔登湖畔自建小屋，进行了一场关于自给自足与简朴生活的社会实验。',
     content: '按季节记录他的劳作、阅读、观察与思考，结尾以「我离开森林，和我进入森林，有着同样好的理由」收束。',
@@ -590,7 +590,7 @@ export const books: Book[] = [
   },
   {
     id: 'grounded-in-ethics', title: '道德形而上学奠基', originalTitle: 'Grundlegung zur Metaphysik der Sitten', author: '康德', year: '1785年', field: '伦理学', school: '德国古典哲学', tradition: 'western',
-    cover: '/images/books/40.webp', coverAlt: '道德法则与尊严意境',
+    cover: './images/books/40.webp', coverAlt: '道德法则与尊严意境',
     intro: '定言命令三种公式的提出地，康德伦理学最简洁严密的表述。',
     background: '康德在《纯粹理性批判》与《实践理性批判》之间写成的短篇著作。',
     content: '从善良意志出发，逐步推出定言命令的普遍法则公式、人性公式与自律公式。',
@@ -605,7 +605,7 @@ export const books: Book[] = [
   },
   {
     id: 'dhammapada', title: '法句经', originalTitle: 'Dhammapada', author: '佛教经典（传统归于佛陀）', year: '约公元前3世纪传入斯里兰卡，逐步结集', field: '佛教伦理 / 诗歌', school: '早期佛教', tradition: 'eastern',
-    cover: '/images/books/41.webp', coverAlt: '佛教经典与莲花意境',
+    cover: './images/books/41.webp', coverAlt: '佛教经典与莲花意境',
     intro: '早期佛教最著名的格言诗集，以简练的韵文概括了佛教的伦理与修行要义。',
     background: '属于《经藏·小部》，由数百首偈颂组成，是最早被翻译成欧洲语言的佛教经典之一。',
     content: '以「诸法意先导」开篇，论述心念、行为、苦恼与解脱的关系。',
@@ -620,7 +620,7 @@ export const books: Book[] = [
   },
   {
     id: 'diamond-sutra', title: '金刚经', originalTitle: 'Vajracchedikā Prajñāpāramitā Sūtra', author: '大乘佛教经典', year: '约公元1—2世纪形成，5世纪鸠摩罗什译出汉本', field: '佛教般若', school: '大乘佛教', tradition: 'eastern',
-    cover: '/images/books/42.webp', coverAlt: '般若经典与禅意意境',
+    cover: './images/books/42.webp', coverAlt: '般若经典与禅意意境',
     intro: '以「应无所住而生其心」与「一切有为法如梦幻泡影」深刻影响了中国禅宗。',
     background: '般若经系中最短小、最广为流传的经典之一，六祖慧能据说因听闻此句而开悟。',
     content: '须菩提与佛的问答，反复破除对相、法与佛身相的执著。',
@@ -635,7 +635,7 @@ export const books: Book[] = [
   },
   {
     id: 'heart-sutra', title: '心经', originalTitle: 'Prajñāpāramitā Hṛdaya', author: '大乘佛教经典', year: '约公元6—7世纪汉译流行', field: '佛教般若', school: '大乘佛教', tradition: 'eastern',
-    cover: '/images/books/43.webp', coverAlt: '心经与禅意水墨意境',
+    cover: './images/books/43.webp', coverAlt: '心经与禅意水墨意境',
     intro: '二百六十字浓缩般若精华，「色即是空，空即是色」流传最广。',
     background: '般若经典的精要提炼，汉传佛教中最常诵持的短经。',
     content: '观自在菩萨行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。',
@@ -650,7 +650,7 @@ export const books: Book[] = [
   },
   {
     id: 'logical-philosophical-treatise', title: '逻辑哲学论', originalTitle: 'Logisch-philosophische Abhandlung', author: '维特根斯坦', year: '1921年德文发表，1922年英译', field: '语言哲学', school: '逻辑实证主义影响', tradition: 'western',
-    cover: '/images/books/44.webp', coverAlt: '逻辑与语言哲学意境',
+    cover: './images/books/44.webp', coverAlt: '逻辑与语言哲学意境',
     intro: '以七条命题构成的哲学体系，结尾宣告「对于不可说的东西，必须保持沉默」。',
     background: '维特根斯坦在一战战壕中完成，是其早期哲学的唯一出版著作。',
     content: '提出语言图像论，区分可说与不可说，试图为哲学划定界限。',

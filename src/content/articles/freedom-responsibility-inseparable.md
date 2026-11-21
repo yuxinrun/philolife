@@ -8,7 +8,7 @@ tags: 自由 | 责任 | 萨特 | 伦理 | 选择
 author: PhiloLife 编辑部
 date</arg_key:6124c78e><arg_value:6124c78e>2025-11-30
 readTime: 12
-cover: /images/articles/freedom.webp
+cover: ./images/articles/freedom.webp
 coverAlt: 古典石柱与自然光
 thinkers: sartre | kant | epictetus
 books: existentialism-is-a-humanism | grounds-of-morals

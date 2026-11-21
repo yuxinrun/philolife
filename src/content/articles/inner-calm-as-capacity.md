@@ -8,7 +8,7 @@ tags: 平静 | 宁静 | 冥想 | 斯多葛 | 心灵
 author: PhiloLife 编辑部
 date: 2025-11-08
 readTime: 12
-cover: /images/articles/calm.webp
+cover: ./images/articles/calm.webp
 coverAlt: 平静湖面与远山
 thinkers: epicurus | seneca | buddha | zhuangzi
 books: meditations | dhammapada

@@ -3,7 +3,7 @@ import type { Topic } from '../types'
 export const topics: Topic[] = [
   {
     id: 'meaning', title: '人生的意义', englishTitle: 'The Meaning of Life', subtitle: '在被给予与被创造之间',
-    image: '/images/topics/meaning.webp', imageAlt: '山川云海与生命追问',
+    image: './images/topics/meaning.webp', imageAlt: '山川云海与生命追问',
     intro: '「人为什么活着？」这个问题几乎伴随每个人的成长。它之所以困难，不是因为答案稀少，而是因为答案的种类太多：宗教说意义来自上帝，存在主义说意义由人创造，荒诞哲学说根本没有意义——而人仍然可以尊严地活着。本专题梳理这些回答的逻辑与局限，并邀请你建立自己的提问方式。',
     questions: [
       { question: '人生意义是否客观存在？', guide: '区分「宇宙尺度的意义」与「个体生命尺度的意义」。一个意义是否存在，取决于我们以什么尺度提问。' },
@@ -23,7 +23,7 @@ export const topics: Topic[] = [
   },
   {
     id: 'happiness', title: '幸福的哲学', englishTitle: 'The Philosophy of Happiness', subtitle: '快乐、德性与繁荣的三种语法',
-    image: '/images/topics/happiness.webp', imageAlt: '阳光下的古典庭院',
+    image: './images/topics/happiness.webp', imageAlt: '阳光下的古典庭院',
     intro: '「幸福」可能是现代汉语中最滥用、也最少被澄清的词。它既指一时的心情，也指整个人生的评价；既是主观感受，也被当作客观状态。本专题通过亚里士多德、伊壁鸠鲁与斯多葛的三种古典方案，重新理解幸福的不同层次。',
     questions: [
       { question: '快乐与幸福的区别在哪里？', guide: '快乐是即时的、局部的体验；幸福是对整体生活的评价。两者可能分离：一个人可以快乐但不幸福，也可以幸福而不常有强烈的快乐。' },
@@ -43,7 +43,7 @@ export const topics: Topic[] = [
   },
   {
     id: 'freedom', title: '自由与选择', englishTitle: 'Freedom and Choice', subtitle: '从被判定自由到自我立法',
-    image: '/images/topics/freedom.webp', imageAlt: '古典石柱与开阔天空',
+    image: './images/topics/freedom.webp', imageAlt: '古典石柱与开阔天空',
     intro: '自由是现代人最珍视、也最少理解的词。它既意味着「摆脱束缚」，也意味着「成为自己的主人」。这两种自由并不总是相容。本专题从斯多葛、康德、萨特到伯林，梳理自由的多重含义与不可逃避的责任。',
     questions: [
       { question: '自由意志是否存在？', guide: '从斯多葛的宇宙决定论到康德的本体自由，再到现代神经科学的挑战，这个问题没有定论。' },
@@ -63,7 +63,7 @@ export const topics: Topic[] = [
   },
   {
     id: 'self', title: '孤独与自我', englishTitle: 'Solitude and the Self', subtitle: '在独处与他者之间辨认自己',
-    image: '/images/topics/self.webp', imageAlt: '古典雕塑侧面与光影',
+    image: './images/topics/self.webp', imageAlt: '古典雕塑侧面与光影',
     intro: '「认识你自己」刻在德尔斐神庙上，却可能是最难的哲学任务。我们既需要他者的镜子来看见自己，又需要在独处中摆脱他者的目光。本专题探索自我认识的困难、孤独的哲学意义与精神独立的可能。',
     questions: [
       { question: '孤独的本质是什么？', guide: '孤独不是身边没有人，而是渴望的连接没有发生。它与孤立、独处是三种不同的状态。' },
@@ -83,7 +83,7 @@ export const topics: Topic[] = [
   },
   {
     id: 'death', title: '死亡与生命', englishTitle: 'Death and Life', subtitle: '有限性如何赋予生命以形状',
-    image: '/images/topics/death.webp', imageAlt: '沙漏与古典光影',
+    image: './images/topics/death.webp', imageAlt: '沙漏与古典光影',
     intro: '死亡是唯一确定却无法经验的事实。伊壁鸠鲁说它与我们无关，海德格尔说它是本真存在的契机，佛教说它只是变化的一种形式。不同的答案，塑造了不同的活法。本专题不提供安慰，只提供几种清醒的视角。',
     questions: [
       { question: '死亡的哲学意义是什么？', guide: '它不只关乎死后，更关乎生前：有限性使选择具有不可重复的分量。' },
@@ -103,7 +103,7 @@ export const topics: Topic[] = [
   },
   {
     id: 'love', title: '爱与关系', englishTitle: 'Love and Relationships', subtitle: '在给予与占有之间',
-    image: '/images/topics/love.webp', imageAlt: '古典园林与亲密氛围',
+    image: './images/topics/love.webp', imageAlt: '古典园林与亲密氛围',
     intro: '爱是人类经验中最强烈、也最难被哲学把握的现象之一。它既是欲望、情感，也是伦理实践与政治问题。本专题从柏拉图的爱欲阶梯、亚里士多德的友谊论，到弗洛姆对现代市场的批判，重新思考爱的结构。',
     questions: [
       { question: '爱的哲学定义是什么？', guide: '爱既不是纯粹占有，也不是无边界的给予。也许它最接近：两个自由的人在相互理解中仍然选择彼此。' },

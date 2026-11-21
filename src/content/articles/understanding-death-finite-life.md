@@ -8,7 +8,7 @@ tags: 死亡 | 有限性 | 向死而生 | 生命 | 佛教
 author: PhiloLife 编辑部
 date: 2025-11-26
 readTime: 14
-cover: /images/articles/death.webp
+cover: ./images/articles/death.webp
 coverAlt: 沙漏与古典阴影
 thinkers: heidegger | epicurus | buddha
 books: being-and-time | phaedo

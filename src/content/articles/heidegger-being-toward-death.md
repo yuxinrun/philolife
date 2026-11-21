@@ -8,7 +8,7 @@ tags: 海德格尔 | 向死而生 | 此在 | 存在 | 本真性
 author: PhiloLife 编辑部
 date: 2025-12-26
 readTime: 14
-cover: /images/articles/heidegger.webp
+cover: ./images/articles/heidegger.webp
 coverAlt: 黑森林与山间道路，海德格尔思想意境
 thinkers: heidegger | kierkegaard
 books: being-and-time

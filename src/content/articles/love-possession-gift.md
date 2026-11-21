@@ -8,7 +8,7 @@ tags: 爱 | 关系 | 柏拉图 | 弗洛姆 | 伦理
 author: PhiloLife 编辑部
 date: 2025-11-22
 readTime: 13
-cover: /images/articles/love.webp
+cover: ./images/articles/love.webp
 coverAlt: 古典园林与亲密氛围
 thinkers: plato | sartre | aristotle
 books: symposium | art-of-loving

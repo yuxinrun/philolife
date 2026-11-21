@@ -8,7 +8,7 @@ tags: 伊壁鸠鲁 | 快乐 | 节制 | 欲望 | 希腊化哲学
 author: PhiloLife 编辑部
 date: 2026-01-12
 readTime: 10
-cover: /images/articles/epicurus.webp
+cover: ./images/articles/epicurus.webp
 coverAlt: 伊壁鸠鲁大理石胸像
 thinkers: epicurus
 books: letter-to-menoeceus | meditations

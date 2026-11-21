@@ -8,7 +8,7 @@ tags: 墨子 | 兼爱 | 非攻 | 尚贤 | 功利主义
 author: PhiloLife 编辑部
 date: 2025-12-12
 readTime: 11
-cover: /images/articles/mozi.webp
+cover: ./images/articles/mozi.webp
 coverAlt: 墨子画像
 thinkers: mozi | confucius
 books: mozi

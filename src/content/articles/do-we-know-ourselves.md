@@ -8,7 +8,7 @@ tags: 自我认知 | 自我意识 | 心理学 | 苏格拉底 | 身份
 author: PhiloLife 编辑部
 date: 2025-11-16
 readTime: 13
-cover: /images/articles/self.webp
+cover: ./images/articles/self.webp
 coverAlt: 古典雕塑侧面与光影
 thinkers: socrates | hume | kierkegaard
 books: apology | treatise-of-human-nature

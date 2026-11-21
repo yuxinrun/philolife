@@ -19,7 +19,7 @@ export function Home() {
     <>
       <section className="hero">
         <div className="hero-image">
-          <img src="/images/hero/school-of-athens.webp" alt="拉斐尔《雅典学院》——古希腊哲学家们在拱廊中相聚" fetchPriority="high" />
+          <img src="./images/hero/school-of-athens.webp" alt="拉斐尔《雅典学院》——古希腊哲学家们在拱廊中相聚" fetchPriority="high" />
         </div>
         <div className="container hero-inner">
           <div className="hero-content">

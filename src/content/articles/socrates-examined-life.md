@@ -8,7 +8,7 @@ tags: 苏格拉底 | 认识自我 | 美德 | 知识分子 | 古典哲学
 author: PhiloLife 编辑部
 date: 2026-01-18
 readTime: 11
-cover: /images/articles/socrates.webp
+cover: ./images/articles/socrates.webp
 coverAlt: 苏格拉底大理石雕像，卢浮宫藏
 thinkers: socrates | plato
 books: apology | phaedo

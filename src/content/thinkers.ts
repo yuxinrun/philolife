@@ -1,6 +1,6 @@
 import type { Thinker } from '../types'
 
-const P = (id: string): string => `/images/philosophers/${id}.webp`
+const P = (id: string): string => `./images/philosophers/${id}.webp`
 
 export const thinkers: Thinker[] = [
   {

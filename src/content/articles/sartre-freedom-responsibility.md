@@ -8,7 +8,7 @@ tags: 萨特 | 存在主义 | 自由 | 责任 | 他人
 author: PhiloLife 编辑部
 date: 2025-12-24
 readTime: 12
-cover: /images/articles/sartre.webp
+cover: ./images/articles/sartre.webp
 coverAlt: 巴黎街景与沉思者，存在主义意境
 thinkers: sartre | camus | heidegger
 books: existence-and-nothingness | existentialism-is-a-humanism

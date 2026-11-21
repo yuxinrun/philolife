@@ -8,7 +8,7 @@ tags: 欲望 | 理性 | 自我控制 | 休谟 | 心理学
 author: PhiloLife 编辑部
 date: 2025-11-14
 readTime: 12
-cover: /images/articles/desire.webp
+cover: ./images/articles/desire.webp
 coverAlt: 古典烛光与书籍
 thinkers: plato | hume | freud | aristotle
 books: republic | treatise-of-human-nature

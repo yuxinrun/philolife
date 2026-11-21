@@ -8,7 +8,7 @@ tags: 幸福 | 亚里士多德 | 伊壁鸠鲁 | 积极心理学 | 生活方式
 author: PhiloLife 编辑部
 date</arg_key:6124c78e><arg_value:6124c78e>2025-12-02
 readTime: 12
-cover: /images/articles/happiness.webp
+cover: ./images/articles/happiness.webp
 coverAlt: 阳光下的古典庭院
 thinkers: aristotle | epicurus | seneca
 books: nicomachean-ethics | letter-to-menoeceus

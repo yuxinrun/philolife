@@ -8,7 +8,7 @@ tags: 王阳明 | 知行合一 | 心学 | 良知 | 宋明理学
 author: PhiloLife 编辑部
 date: 2025-12-10
 readTime: 12
-cover: /images/articles/wang-yangming.webp
+cover: ./images/articles/wang-yangming.webp
 coverAlt: 王阳明祠与江南山水
 thinkers: wang-yangming | zhu-xi | mencius
 books: chuanxilu

@@ -8,7 +8,7 @@ tags: 斯多葛 | 爱比克泰德 | 塞涅卡 | 马可·奥勒留 | 内在自由
 author: PhiloLife 编辑部
 date: 2026-01-10
 readTime: 12
-cover: /images/articles/seneca.webp
+cover: ./images/articles/seneca.webp
 coverAlt: 古罗马哲学家塞涅卡胸像
 thinkers: epictetus | seneca | marcus-aurelius
 books: meditations | enchiridion | letters-seneca

@@ -8,7 +8,7 @@ tags: 孔子 | 仁 | 礼 | 儒家 | 君子
 author: PhiloLife 编辑部
 date: 2025-12-20
 readTime: 12
-cover: /images/articles/confucius.webp
+cover: ./images/articles/confucius.webp
 coverAlt: 孔子与弟子杏坛讲学图
 thinkers: confucius
 books: analects

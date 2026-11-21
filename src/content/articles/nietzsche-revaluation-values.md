@@ -8,7 +8,7 @@ tags: 尼采 | 权力意志 | 价值重估 | 超人 | 现代性批判
 author: PhiloLife 编辑部
 date: 2026-01-02
 readTime: 14
-cover: /images/articles/nietzsche.webp
+cover: ./images/articles/nietzsche.webp
 coverAlt: 尼采 1882 年肖像
 thinkers: nietzsche | schopenhauer
 books: zarathustra | beyond-good-and-evil | genealogy-of-morals

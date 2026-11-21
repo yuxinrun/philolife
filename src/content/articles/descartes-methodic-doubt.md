@@ -8,7 +8,7 @@ tags: 笛卡尔 | 怀疑 | 认识论 | 主体性 | 近代哲学
 author: PhiloLife 编辑部
 date: 2026-01-08
 readTime: 11
-cover: /images/articles/descartes.webp
+cover: ./images/articles/descartes.webp
 coverAlt: 弗朗斯·哈尔斯所绘笛卡尔肖像
 thinkers: descartes
 books: meditations-on-first-philosophy | discourse-on-method

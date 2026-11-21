@@ -8,7 +8,7 @@ tags: 叔本华 | 意志 | 欲望 | 痛苦 | 悲观哲学
 author: PhiloLife 编辑部
 date: 2026-01-04
 readTime: 12
-cover: /images/articles/schopenhauer.webp
+cover: ./images/articles/schopenhauer.webp
 coverAlt: 叔本华肖像画
 thinkers: schopenhauer
 books: world-as-will | schopenhauer-wisdom

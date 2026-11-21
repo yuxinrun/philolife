@@ -8,7 +8,7 @@ tags: 佛教 | 无常 | 无我 | 缘起 | 苦
 author: PhiloLife 编辑部
 date: 2025-12-06
 readTime: 13
-cover: /images/articles/buddha.webp
+cover: ./images/articles/buddha.webp
 coverAlt: 古代佛像雕塑
 thinkers: buddha | nagarjuna
 books: dhammapada | diamond-sutra

@@ -55,7 +55,7 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   transition: background-color .35s var(--ease), color .35s var(--ease);
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 img { max-width: 100%; display: block; }
 a { color: inherit; text-decoration: none; }
@@ -82,7 +82,9 @@ p { margin: 0 0 1.1em; }
 .site-header {
   position: sticky; top: 0; z-index: 100;
   height: var(--header-h);
+  background: var(--bg);
   background: color-mix(in srgb, var(--bg) 92%, transparent);
+  -webkit-backdrop-filter: saturate(140%) blur(14px);
   backdrop-filter: saturate(140%) blur(14px);
   border-bottom: 1px solid var(--line-soft);
   transition: box-shadow .3s, background-color .35s;
@@ -384,6 +386,7 @@ p { margin: 0 0 1.1em; }
 }
 @media (max-width: 700px) {
   :root { --header-h: 64px; }
+  .header-inner { gap: 12px; }
   .container, .container-narrow, .article-layout { width: min(calc(100% - 32px), var(--max)); }
   body { font-size: 15px; }
   .hero { min-height: 620px; }

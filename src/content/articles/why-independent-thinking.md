@@ -8,7 +8,7 @@ tags: 独立思考 | 判断力 | 批判思维 | 康德 | 教育
 author: PhiloLife 编辑部
 date: 2025-11-20
 readTime: 12
-cover: /images/articles/thinking.webp
+cover: ./images/articles/thinking.webp
 coverAlt: 阅读中的人与窗边光线
 thinkers: kant | socrates | adorno
 books: critique-of-pure-reason | enlightenment-dialectic

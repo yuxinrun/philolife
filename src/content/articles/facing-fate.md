@@ -8,7 +8,7 @@ tags: 命运 | 接纳 | 斯多葛 | 庄子 | 确定性
 author: PhiloLife 编辑部
 date: 2025-11-24
 readTime: 12
-cover: /images/articles/fate.webp
+cover: ./images/articles/fate.webp
 coverAlt: 古老时钟与光影
 thinkers: epictetus | zhuangzi | camus
 books: meditations | zhuangzi

@@ -8,7 +8,7 @@ tags: 克尔凯郭尔 | 焦虑 | 选择 | 存在主义 | 个体
 author: PhiloLife 编辑部
 date</arg_key:6124c78e><arg_value:6124c78e>2025-12-30
 readTime: 12
-cover: /images/articles/kierkegaard.webp
+cover: ./images/articles/kierkegaard.webp
 coverAlt: 克尔凯郭尔 1870 年肖像
 thinkers: kierkegaard | hegel
 books: concept-of-anxiety | fear-and-trembling

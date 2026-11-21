@@ -8,7 +8,7 @@ tags: 黑格尔 | 辩证法 | 精神现象学 | 历史哲学 | 承认
 author: PhiloLife 编辑部
 date: 2025-12-28
 readTime: 14
-cover: /images/articles/hegel.webp
+cover: ./images/articles/hegel.webp
 coverAlt: 黑格尔肖像画
 thinkers: hegel | kant
 books: phenomenology-of-spirit | philosophy-of-right

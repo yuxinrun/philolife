@@ -8,7 +8,7 @@ tags: 庄子 | 逍遥 | 齐物 | 道家 | 自由
 author: PhiloLife 编辑部
 date: 2025-12-14
 readTime: 13
-cover: /images/articles/zhuangzi.webp
+cover: ./images/articles/zhuangzi.webp
 coverAlt: 庄周梦蝶图
 thinkers: zhuangzi | laozi
 books: zhuangzi

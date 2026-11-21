@@ -8,7 +8,7 @@ tags: 独处 | 孤独 | 自我 | 安静 | 精神成长
 author: PhiloLife 编辑部
 date: 2025-11-06
 readTime: 11
-cover: /images/articles/solitude.webp
+cover: ./images/articles/solitude.webp
 coverAlt: 山间小屋与独处意境
 thinkers: kierkegaard | zhuangzi | sartre
 books: solitude | walden

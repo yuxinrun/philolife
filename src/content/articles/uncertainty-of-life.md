@@ -8,7 +8,7 @@ tags: 不确定性 | 焦虑 | 决定 | 斯多葛 | 存在主义
 author: PhiloLife 编辑部
 date: 2025-11-12
 readTime: 12
-cover: /images/articles/uncertainty.webp
+cover: ./images/articles/uncertainty.webp
 coverAlt: 雾中的古典建筑
 thinkers: epictetus | kierkegaard | sartre
 books: meditations | concept-of-anxiety

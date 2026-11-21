@@ -8,7 +8,7 @@ tags: 人生意义 | 存在主义 | 荒诞 | 价值 | 生命
 author: PhiloLife 编辑部
 date: 2025-12-04
 readTime: 14
-cover: /images/articles/meaning.webp
+cover: ./images/articles/meaning.webp
 coverAlt: 山川云海，生命意境
 thinkers: camus | sartre | kierkegaard | nietzsche
 books: myth-of-sisyphus | existentialism-is-a-humanism

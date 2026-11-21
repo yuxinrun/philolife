@@ -8,7 +8,7 @@ tags: 孤独 | 独处 | 自我 | 关系 | 存在主义
 author: PhiloLife 编辑部
 date: 2025-11-28
 readTime: 12
-cover: /images/articles/loneliness.webp
+cover: ./images/articles/loneliness.webp
 coverAlt: 空旷的海岸与独行人影
 thinkers: sartre | kierkegaard | aristotle
 books: existence-and-nothingness | solitude

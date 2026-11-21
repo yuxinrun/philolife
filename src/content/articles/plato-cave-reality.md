@@ -8,7 +8,7 @@ tags: 柏拉图 | 洞穴寓言 | 理念论 | 认识论 | 教育
 author: PhiloLife 编辑部
 date: 2026-01-16
 readTime: 12
-cover: /images/articles/plato.webp
+cover: ./images/articles/plato.webp
 coverAlt: 柏拉图大理石胸像
 thinkers: plato | socrates
 books: republic

@@ -8,7 +8,7 @@ tags: 亚里士多德 | 幸福 | 美德伦理 | 目的论 | 实践智慧
 author: PhiloLife 编辑部
 date: 2026-01-14
 readTime: 12
-cover: /images/articles/aristotle.webp
+cover: ./images/articles/aristotle.webp
 coverAlt: 亚里士多德大理石胸像
 thinkers: aristotle | plato
 books: nicomachean-ethics
